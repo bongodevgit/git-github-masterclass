@@ -5,3 +5,5 @@ print("Hi there")
 print('Hello there')
 
 print('Nicewwweeeee!!!!')
+
+print(b)
